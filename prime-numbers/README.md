@@ -19,8 +19,5 @@ is_prime(1)  /* false */
 is_prime(2)  /* true  */
 is_prime(-1) /* false */
 
-## Note:
-So far I was not able to come up with a solution, that would make the code more efficient. It works, but it's slow.
-
 Source:
 https://www.codewars.com/kata/5262119038c0985a5b00029f
