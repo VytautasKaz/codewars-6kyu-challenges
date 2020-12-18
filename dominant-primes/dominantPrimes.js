@@ -1,10 +1,10 @@
-function isPrime(num) {
-    for (let i = 2; i <= x/2; i++){
-        if (x % i === 0){
-            return false;
-        } 
+function isPrime (num) {
+  for (let i = 2; i < num; i++){
+    if (num % i === 0) {
+      return false;
     }
-    return true;
+  }
+  return num > 1;
 }
 function solve(a, b) {
   let primeNumbers = [];
