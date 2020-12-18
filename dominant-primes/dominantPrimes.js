@@ -8,7 +8,7 @@ function isPrime (num) {
 }
 function solve(a, b) {
   let primeNumbers = [];
-  for (let i = 2; i < b; i++){
+  for (let i = 2; i <= b; i++){
     if (isPrime(i)) {
       primeNumbers.push(i);
     }
