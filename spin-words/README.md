@@ -4,11 +4,13 @@ Write a function that takes in a string of one or more words, and returns the sa
 
 ## Examples:
 
+```javascript
 spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"
 
-spinWords( "This is a test") => returns "This is a test"
+spinWords( "This is a test" ) => returns "This is a test"
 
 spinWords( "This is another test" )=> returns "This is rehtona test"
+```
 
 Link:
 https://www.codewars.com/kata/5264d2b162488dc400000001
