@@ -6,5 +6,5 @@ A pangram is a sentence that contains every single letter of the alphabet at lea
 
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
 
-Source:
+Link:
 https://www.codewars.com/kata/545cedaa9943f7fe7b000048

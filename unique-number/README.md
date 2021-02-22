@@ -8,16 +8,16 @@ Example
 Input:
 
 ```javascript
-[ 1, 8, 4, 4, 6, 1, 8 ]
+[1, 8, 4, 4, 6, 1, 8];
 ```
 
 Expected output:
 
 ```javascript
-6
+6;
 ```
 
-Source: 
+Link:
 https://www.codewars.com/kata/55f81f9aa51f9b72a200002f
 
 Note: Code still needs better optimization.

@@ -6,7 +6,6 @@ Define a function that takes one integer argument and returns logical value true
 
 Per Wikipedia, a prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself.
 
-
 ## Requirements:
 
 - You can assume you will be given an integer input.
@@ -15,9 +14,9 @@ Per Wikipedia, a prime number (or a prime) is a natural number greater than 1 th
 
 ## Example:
 
-is_prime(1)  /* false */
-is_prime(2)  /* true  */
-is_prime(-1) /* false */
+is_prime(1) /_ false _/
+is_prime(2) /_ true _/
+is_prime(-1) /_ false _/
 
-Source:
+Link:
 https://www.codewars.com/kata/5262119038c0985a5b00029f

@@ -10,5 +10,5 @@ Similarly, as shown in listA, in the range (6,20), the dominant primes in this r
 
 Given a range (a,b), what is the sum of dominant primes within that range? Note that a <= range <= b and b will not exceed 500000.
 
-Source:
+Link:
 https://www.codewars.com/kata/59ce11ea9f0cbc8a390000ed
